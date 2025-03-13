@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Patrick McGonigle
+# I'm Patrick McGonigle
 
 ## About Me
 
