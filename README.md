@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**ptmcgonigle/ptmcgonigle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Patrick McGonigle
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced IT Engineer with a solid background in application support, web development, and system administration. [cite: 1, 2] I'm passionate about delivering effective technical solutions and building user-friendly web applications.
+
+## Skills
+
+* Web Development
+* Application Support
+* System Administration
+* Databases
+* Cloud Computing
+* Scripting (PowerShell, T-SQL)
+* Windows Server, Linux
+
+## Experience
+
+I have a proven track record in providing technical support, managing system deployments, and developing web solutions for various organisations. My experience includes:
+
+* **Web Development:** Building websites for local businesses. 
+* **Application Support:** Providing technical support and resolving complex issues. 
+* **System Administration:** Managing servers, deployments, and migrations. 
+
